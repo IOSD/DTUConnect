@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DTUConnect</string>
+    <string name="splash">DTU CONNECT</string>
 </resources>
